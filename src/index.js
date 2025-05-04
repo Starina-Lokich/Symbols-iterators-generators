@@ -1,3 +1,4 @@
+import './symbols_iterators/app.js'; // Проверка для первого задания
 import Team from './Team';
 import Character from './Character';
 import canIterate from './canIterate';
